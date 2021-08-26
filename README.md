@@ -1,5 +1,5 @@
 - Hi, I’m @kirillgrachoff
-- I’m interested in Highload Services
+- I’m interested in backend programming, algorithms \& data structures, concurrency
 - I’m currently learning C++ and Golang
 - How to reach me
   - public email
