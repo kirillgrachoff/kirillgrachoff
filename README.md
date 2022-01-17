@@ -1,4 +1,6 @@
 - Hi, I’m @kirillgrachoff
+- ex-SWE at Huawei
+- Student at MIPT, DIHT (Applied Mathematics and Computer Science)
 - I’m interested in backend programming, algorithms \& data structures, concurrency
 - I’m currently learning C++ and Golang
 - How to reach me
