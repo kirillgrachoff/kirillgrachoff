@@ -6,7 +6,7 @@
   - algorithms \& data structures
   - concurrency
   - distributed systems
-- I’m currently learning C++ and Golang
+- I’m currently learning C++, Golang and Scala
 - How to reach me
   - public email
   - telegram: kirillgrachoff
