@@ -11,3 +11,5 @@
   - public email
   - telegram: kirillgrachoff
   - linkedin: kirillgrachoff
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kirillgrachoff&show_icons=true&hide_title=false)
