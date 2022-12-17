@@ -14,7 +14,8 @@ Intermediate English \
 
 ## Contacts
 tg: kirillgrachoff \
-kirill.grachoff[at]gmail[dot]com
+kirill.grachoff[at]gmail[dot]com \
+linkedin: kirillgrachoff
 
 # Experience
 - Yandex.Cloud | Yandex \
