@@ -21,7 +21,7 @@ linkedin: kirillgrachoff
 - Yandex.Cloud | Yandex \
   Marketplace group \
   july - december 2022 \
-  Golang/Python SWE
+  Golang/Python Intern SWE
   - Add [`Ubuntu 22.04 LTS`](https://cloud.yandex.ru/marketplace/products/yc/ubuntu-22-04-lts) and [`openSUSE Leap 15.04`](https://cloud.yandex.ru/marketplace/products/yc/opensuse-15-4) to Cloud using HashiCorp Packer.
   - Improve autopublishing new OS versions. (scale using one builder instance instead of many)
   - Add hcl language (terraform language) to autopublishing service.
@@ -29,10 +29,11 @@ linkedin: kirillgrachoff
   - Write a part of a new microservice (Concurrent part + monitoring).
   
   Technologies: [YDB](https://ydb.tech), YT (~ Hadoop + Hive), Yandex.Monitoring (~ Grafana + Prometheus), Go, Python.
+
 - Huawei Russian Research Institute | Moscow R\&D \
   Math Modeling Lab | Algorithm challenges team \
   june - august 2022 \
-  C/C++, Golang dev/researcher
+  C/C++, Golang intern dev/researcher
   - 5G networks [PDCCH](https://www.sharetechnote.com/html/5G/5G_PDCCH.html) protocol optimization \
   Implemented an algorithm which improved baseline.
   - Ad-Hoc optimizations
