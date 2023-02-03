@@ -1,6 +1,7 @@
 # Kirill Grachev (@kirillgrachoff)
 - Student at MIPT, DIHT (Applied Mathematics and Computer Science)
 - ex-SWE at Huawei
+- ex-SWE at Yandex.Cloud
 - I’m interested in
   - backend programming
   - algorithms \& data structures
