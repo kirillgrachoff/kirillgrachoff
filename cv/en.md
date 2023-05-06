@@ -1,12 +1,12 @@
 # Grachev Kirill
-Golang / C++ developer \
+Software Engineer \
 Interested in:
 - Distributed systems
 - Data-intensive systems
 - Cloud services
 - Distributed algorithms and so on
 
-Examples: YDB, Kafka, CockroachDB, YT, ZooKeeper
+Examples: [YDB](ydb.tech), Kafka, CockroachDB, [YTsaurus](ytsaurus.tech), ZooKeeper
 
 Moscow, Russia \
 Intermediate English \
@@ -34,7 +34,7 @@ linkedin: kirillgrachoff
   - Refactor Go service (repair Concurrency code).
   - Write a part of a new microservice (Concurrent part + monitoring).
   
-  Technologies: [YDB](https://ydb.tech), YT (~ Hadoop + Hive), Yandex.Monitoring (~ Grafana + Prometheus), Go, Python.
+  Technologies: [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech), S3, Yandex.Monitoring (~ Grafana + Prometheus), Go, Python.
 
 - Huawei Russian Research Institute | Moscow R\&D \
   Math Modeling Lab | Algorithm challenges team \
@@ -48,25 +48,34 @@ linkedin: kirillgrachoff
   - Ideas are implemented in Huawei 5G base stations
 
 # Education
-- MIPT DIHT | Applied Mathematics and Computer Science
+- [MIPT](phystech.edu) DIHT | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
 - Moscow Worksops Juniors 2020
 
-# Skills
-- C++ 11-20, CMake
-- Go 1.16+, Docker
+# Hard Skills
+- C++ 11-20, Go 1.16+, Scala 2.13+
+- Docker, CMake, Bazel, Protobuf, gRPC
 - Advanced Algorithms and Data Structures
-- Operatins Systems (Linux), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course), Distributed Systems, Databases
+- Distributed systems, [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
+- Operatins Systems (Linux), Databases
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
-- Familiar with: Scala 2, Kotlin, Python 3, SQL (YQL)
+- Familiar with:
+  - Kotlin (+ Coroutines), Rust, Python 3 
+  - Android (Jetpack Compose), Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
+  - [YDB](ydb.tech), [YTsaurus](ytsaurus.tech)
 
-# Competitions and self-education
+# Competitions, self-education and achievements
 - ICPC Moscow 1/4 2021 - Second award
 - ICPC Moscow 1/4 2020 - Participant
 - Codeforces Problemsetter ([Rounds](https://codeforces.com/contests/writer/kirill.grachoff))
 - Stepik Scala cource (Tinkoff Bank) [100% certificate](https://stepik.org/cert/295996)
+- Restored my Linux/Manjaro laptop after incorrect usage of Timeshift with btrfs (repaired something in /boot)
 
 # Projects
 - [github](https://github.com/kirillgrachoff)
   - [load tester](https://github.com/kirillgrachoff/load_tester)
+  - [quic-server](https://github.com/kirillgrachoff/go-quic-potato)
   - [MIPT C++ Algorithms](https://github.com/kirillgrachoff/mipt-cpp-algorithms)
 - [codeforces](https://codeforces.com/profile/kirill.grachoff)
+- some commits in open source projects:
+  - [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commit/cffea5310713f2f5cfc5bd130e90aa49efc6d6ee)
+  - [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff)
