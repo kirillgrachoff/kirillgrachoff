@@ -1,16 +1,14 @@
 # Kirill Grachev (@kirillgrachoff)
 - Student at MIPT, DIHT (Applied Mathematics and Computer Science)
-- ex-SWE at Huawei
-- ex-SWE at Yandex.Cloud
-- I’m interested in
-  - backend programming
-  - algorithms \& data structures
-  - concurrency
-  - distributed systems
+- ex-SWE at Yandex.Cloud, Huawei
+- Who am I
+  - Distributed systems enjoyer
+  - Concurrency expert
+  - Go enthusiast
 - I’m currently learning C++, Golang and Scala
 - How to reach me
   - public email
   - telegram: kirillgrachoff
   - linkedin: kirillgrachoff
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kirillgrachoff&show_icons=true&hide_title=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=kirillgrachoff&count_private=true&show_icons=true&theme=highcontrast)
