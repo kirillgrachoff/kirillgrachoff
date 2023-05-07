@@ -24,6 +24,13 @@ linkedin: kirillgrachoff
   **Teacher assistant**
   - Review homework tasks
 
+- MIPT | [SNARK project](https://github.com/SciProgCentre/snark) \
+  SNARK is an open-source platform for science articles: publishing/reviewing/discussion. \
+  It focuses on 
+  february - may 2023 \
+  **Kotlin SWE**
+  - Add quite good storage abstraction
+
 - Yandex.Cloud | Yandex \
   Marketplace group \
   july - december 2022 \
@@ -77,5 +84,6 @@ linkedin: kirillgrachoff
   - [MIPT C++ Algorithms](https://github.com/kirillgrachoff/mipt-cpp-algorithms)
 - [codeforces](https://codeforces.com/profile/kirill.grachoff)
 - some commits in open source projects:
-  - [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commit/cffea5310713f2f5cfc5bd130e90aa49efc6d6ee)
+  - [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff)
   - [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff)
+  - [snark](https://github.com/SciProgCentre/snark/commits?author=kirillgrachoff)
