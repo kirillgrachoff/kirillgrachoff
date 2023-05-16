@@ -66,6 +66,7 @@ linkedin: kirillgrachoff
 - Operatins Systems (Linux), Databases
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
+  - TLA+
   - Kotlin (+ Coroutines), Rust, Python 3 
   - Android (Jetpack Compose), Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
   - [YDB](ydb.tech), [YTsaurus](ytsaurus.tech)
