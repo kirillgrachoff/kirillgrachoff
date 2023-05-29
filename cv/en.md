@@ -6,7 +6,7 @@ Interested in:
 - Cloud services
 - Distributed algorithms and so on
 
-Examples: [YDB](ydb.tech), Kafka, CockroachDB, [YTsaurus](ytsaurus.tech), ZooKeeper
+Examples: [YDB](https://ydb.tech), Kafka, CockroachDB, [YTsaurus](https://ytsaurus.tech), etcd, [ScyllaDB](https://scylladb.com)
 
 Moscow, Russia \
 Intermediate English \
@@ -69,7 +69,7 @@ linkedin: kirillgrachoff
   - TLA+
   - Kotlin (+ Coroutines), Rust, Python 3 
   - Android (Jetpack Compose), Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
-  - [YDB](ydb.tech), [YTsaurus](ytsaurus.tech)
+  - [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech)
 
 # Competitions, self-education and achievements
 - ICPC Moscow 1/4 2021 - Second award
