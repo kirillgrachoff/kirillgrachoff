@@ -26,10 +26,12 @@ linkedin: kirillgrachoff
 
 - MIPT | [SNARK project](https://github.com/SciProgCentre/snark) \
   SNARK is an open-source platform for science articles: publishing/reviewing/discussion. \
-  It focuses on 
+  It focuses on scalability. Useful for publishing houses. \
   february - may 2023 \
-  **Kotlin SWE**
-  - Add quite good storage abstraction
+  **Kotlin Lead SWE**
+  - Wrote design docs
+  - Made key decisions
+  - Added quite good storage abstraction
 
 - Yandex.Cloud | Yandex \
   Marketplace group \
@@ -68,7 +70,8 @@ linkedin: kirillgrachoff
 - Familiar with:
   - TLA+
   - Kotlin (+ Coroutines), Rust, Python 3 
-  - Android (Jetpack Compose), Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
+  - Android (Jetpack Compose)
+  - Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
   - [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech)
 
 # Competitions, self-education and achievements
