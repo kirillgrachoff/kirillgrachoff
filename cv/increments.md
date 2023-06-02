@@ -22,7 +22,7 @@
 ### Hard skills
 - Scala 2.13+, sbt
 - Bazel (Java, Go)
-- Distributed systems (AB, RSM, [Multi-]Paxos, Raft, DFS, 2PC, Calvin/YDB, Bitcoin, HotStuff)
+- Distributed systems (AB, RSM, [Multi-]Paxos, Raft, DFS, 2PC/Spanner, Calvin/YDB, Bitcoin, HotStuff)
 - Distributed systems' usage (HDFS, Hive, Hadoop, Spark (Scala), CUDA, MPI)
 - Familiar with:
   - TLA+

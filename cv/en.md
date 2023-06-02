@@ -1,4 +1,5 @@
 # Grachev Kirill
+MIPT DIHT student \
 Software Engineer \
 Interested in:
 - Distributed systems
@@ -64,7 +65,7 @@ linkedin: kirillgrachoff
 - C++ 11-20, Go 1.16+, Scala 2.13+
 - Docker, CMake, Bazel, Protobuf, gRPC
 - Advanced Algorithms and Data Structures
-- Distributed systems, [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
+- Distributed systems (AB, RSM, [Multi]Paxos/Raft (Chubby/ZK), DFS, MR, 2PC (Spanner), Calvin (YDB), Bitcoin, HotStuff), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
 - Operatins Systems (Linux), Databases
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
