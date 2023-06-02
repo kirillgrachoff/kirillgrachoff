@@ -69,7 +69,7 @@ linkedin: kirillgrachoff
 - Operatins Systems (Linux), Databases
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
-  - TLA+
+  - [TLA+](https://github.com/kirillgrachoff/tlaplus-examples)
   - Kotlin (+ Coroutines), Rust, Python 3 
   - Android (Jetpack Compose)
   - Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
@@ -84,6 +84,7 @@ linkedin: kirillgrachoff
 
 # Projects
 - [github](https://github.com/kirillgrachoff)
+  - [TLA+ examples](https://github.com/kirillgrachoff/tlaplus-examples)
   - [load tester](https://github.com/kirillgrachoff/load_tester)
   - [quic-server](https://github.com/kirillgrachoff/go-quic-potato)
   - [MIPT C++ Algorithms](https://github.com/kirillgrachoff/mipt-cpp-algorithms)
