@@ -21,14 +21,14 @@ linkedin: kirillgrachoff
 # Experience
 - MIPT | Algorithms and Programming Technologies chair \
   Programming Technologies course \
-  february - june 2023 \
+  february - june 2023 (5 months) \
   **Teacher assistant**
   - Review homework tasks
 
 - MIPT | [SNARK project](https://github.com/SciProgCentre/snark) \
   SNARK is an open-source platform for science articles: publishing/reviewing/discussion. \
   It focuses on scalability. Useful for publishing houses. \
-  february - may 2023 \
+  february - may 2023 (4 months) \
   **Kotlin Lead SWE**
   - Wrote design docs
   - Made key decisions
@@ -36,7 +36,7 @@ linkedin: kirillgrachoff
 
 - Yandex.Cloud | Yandex \
   Marketplace group \
-  july - december 2022 \
+  july - december 2022 (6 months) \
   **Golang/Python Intern SWE**
   - Add [`Ubuntu 22.04 LTS`](https://cloud.yandex.ru/marketplace/products/yc/ubuntu-22-04-lts) and [`openSUSE Leap 15.04`](https://cloud.yandex.ru/marketplace/products/yc/opensuse-15-4) to Cloud using HashiCorp Packer.
   - Improve autopublishing new OS versions. (scale using one builder instance instead of many)
@@ -48,7 +48,7 @@ linkedin: kirillgrachoff
 
 - Huawei Russian Research Institute | Moscow R\&D \
   Math Modeling Lab | Algorithm challenges team \
-  june - august 2022 \
+  june - august 2022 (2 months) \
   **C/C++, Golang intern dev/researcher**
   - 5G networks [PDCCH](https://www.sharetechnote.com/html/5G/5G_PDCCH.html) protocol optimization \
   Implemented an algorithm which improved baseline.
