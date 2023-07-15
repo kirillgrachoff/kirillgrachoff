@@ -66,7 +66,7 @@ linkedin: kirillgrachoff
 - Docker, CMake, Bazel, Protobuf, gRPC
 - Advanced Algorithms and Data Structures
 - Distributed systems (AB, RSM, [Multi]Paxos/Raft (Chubby/ZK), DFS, MR, 2PC (Spanner), Calvin (YDB), Bitcoin, HotStuff), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
-- Operatins Systems (Linux), Databases
+- Operating Systems (Linux), Databases
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
   - [TLA+](https://github.com/kirillgrachoff/tlaplus-examples)
