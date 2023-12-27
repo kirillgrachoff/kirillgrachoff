@@ -19,6 +19,11 @@ kirill.grachoff[at]gmail[dot]com \
 linkedin: kirillgrachoff
 
 # Experience
+- [VKontakte](vk.com) | Engines \
+  july 2023 - present time \
+  **Database C++ developer** \
+  Messages Engine (Messenger Database)
+
 - MIPT | Algorithms and Programming Technologies chair \
   Programming Technologies course \
   february - june 2023 (5 months) \
@@ -90,6 +95,7 @@ linkedin: kirillgrachoff
   - [MIPT C++ Algorithms](https://github.com/kirillgrachoff/mipt-cpp-algorithms)
 - [codeforces](https://codeforces.com/profile/kirill.grachoff)
 - some commits in open source projects:
+  - [scylladb/seastar](https://github.com/scylladb/seastar/pull/1944)
   - [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff)
   - [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff)
   - [snark](https://github.com/SciProgCentre/snark/commits?author=kirillgrachoff)
