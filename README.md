@@ -1,6 +1,6 @@
 # Kirill Grachev (@kirillgrachoff)
 - Student at MIPT, DIHT (Applied Mathematics and Computer Science)
-- Student at [YSDA](https://shad.yandex.ru)
+- Student at [YSDA](https://dataschool.yandex.com/)
 - ex-SWE at Yandex.Cloud, Huawei
 - Who am I
   - Distributed systems enjoyer
