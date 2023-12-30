@@ -1,6 +1,6 @@
 # Grachev Kirill
 MIPT DIHT student \
-[YSDA](shad.yandex.ru) student \
+[YSDA](https://shad.yandex.ru) student \
 Software Engineer \
 Interested in:
 - Distributed systems
