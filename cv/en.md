@@ -20,7 +20,7 @@ kirill.grachoff[at]gmail[dot]com \
 linkedin: kirillgrachoff
 
 # Experience
-- [VKontakte](vk.com) | Engines \
+- [VKontakte](https://vk.com) | Engines \
   july 2023 - present time \
   **Database C++ developer** \
   Messages Engine (Messenger Database)
@@ -64,15 +64,22 @@ linkedin: kirillgrachoff
   - Ideas are implemented in Huawei 5G base stations
 
 # Education
-- [MIPT](phystech.edu) DIHT | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
+- [YSDA](https://dataschool.yandex.com/) (2023 - now) | Big Data Infrastructure
+- [MIPT](phystech.edu) DIHT (2020 - now) | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
 - Moscow Worksops Juniors 2020
+
+# Open Source Contributions
+- [scylladb/seastar](https://github.com/scylladb/seastar/pull/1944)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff)
+- [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff)
+- [snark](https://github.com/SciProgCentre/snark/commits?author=kirillgrachoff)
 
 # Hard Skills
 - C++ 11-20, Go 1.16+, Scala 2.13+
 - Docker, CMake, Bazel, Protobuf, gRPC
 - Advanced Algorithms and Data Structures
 - Distributed systems (AB, RSM, [Multi]Paxos/Raft (Chubby/ZK), DFS, MR, 2PC (Spanner), Calvin (YDB), Bitcoin, HotStuff), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
-- Operating Systems (Linux), Databases
+- Operating Systems (Linux), Database Internals
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
   - [TLA+](https://github.com/kirillgrachoff/tlaplus-examples)
@@ -95,8 +102,3 @@ linkedin: kirillgrachoff
   - [quic-server](https://github.com/kirillgrachoff/go-quic-potato)
   - [MIPT C++ Algorithms](https://github.com/kirillgrachoff/mipt-cpp-algorithms)
 - [codeforces](https://codeforces.com/profile/kirill.grachoff)
-- some commits in open source projects:
-  - [scylladb/seastar](https://github.com/scylladb/seastar/pull/1944)
-  - [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff)
-  - [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff)
-  - [snark](https://github.com/SciProgCentre/snark/commits?author=kirillgrachoff)
