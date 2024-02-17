@@ -1,7 +1,7 @@
 # Grachev Kirill
 MIPT DIHT student \
 [YSDA](https://dataschool.yandex.com/) student \
-Software Engineer \
+Software Engineer (C++, Go, Rust, Scala) \
 Interested in:
 - Distributed systems
 - Data-intensive systems
@@ -19,11 +19,16 @@ tg: kirillgrachoff \
 kirill.grachoff[at]gmail[dot]com \
 linkedin: kirillgrachoff
 
+## Hard skills
+C++, Go, Rust, Scala, Concurrency, Distributed systems, Advanced Algorithms and Data Structures
+
 # Experience
 - [VKontakte](https://vk.com) | Engines \
   july 2023 - present time \
   **Database C++ developer** \
   Messages Engine (Messenger Database)
+  - Maintained a cluster with >= 1000 instances
+  - Implemented new feature for messenger (based on distributed Timer)
 
 - MIPT | Algorithms and Programming Technologies chair \
   Programming Technologies course \
@@ -48,20 +53,18 @@ linkedin: kirillgrachoff
   - Improve autopublishing new OS versions. (scale using one builder instance instead of many)
   - Add hcl language (terraform language) to autopublishing service.
   - Refactor Go service (repair Concurrency code).
-  - Write a part of a new microservice (Concurrent part + monitoring).
-  
+  - Write a part of a new Go microservice (Concurrent part + monitoring).
+
   Technologies: [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech), S3, Yandex.Monitoring (~ Grafana + Prometheus), Go, Python.
 
 - Huawei Russian Research Institute | Moscow R\&D \
   Math Modeling Lab | Algorithm challenges team \
   june - august 2022 (2 months) \
   **C/C++, Golang intern dev/researcher**
-  - 5G networks [PDCCH](https://www.sharetechnote.com/html/5G/5G_PDCCH.html) protocol optimization \
-  Implemented an algorithm which improved baseline.
-  - Ad-Hoc optimizations
-  - Low-Level optimizations
-  - Research
-  - Ideas are implemented in Huawei 5G base stations
+  - 5G networks [PDCCH](https://www.sharetechnote.com/html/5G/5G_PDCCH.html) protocol optimization.
+  - Implemented an algorithm which improved baseline.
+  - Made a research in 5G networks.
+  - Ideas are implemented in Huawei 5G base stations.
 
 # Education
 - [YSDA](https://dataschool.yandex.com/) (2023 - now) | Big Data Infrastructure
@@ -75,15 +78,15 @@ linkedin: kirillgrachoff
 - [snark](https://github.com/SciProgCentre/snark/commits?author=kirillgrachoff)
 
 # Hard Skills
-- C++ 11-20, Go 1.16+, Scala 2.13+
+- C++ 11-20, Go 1.16+, Scala 2.13+, Rust
 - Docker, CMake, Bazel, Protobuf, gRPC
 - Advanced Algorithms and Data Structures
-- Distributed systems (AB, RSM, [Multi]Paxos/Raft (Chubby/ZK), DFS, MR, 2PC (Spanner), Calvin (YDB), Bitcoin, HotStuff), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
+- Distributed systems (AB, RSM, [Multi]Paxos/Raft (Chubby/ZK), DFS (FB Tectonic), MR, 2PC (Spanner), Calvin (YDB), Bitcoin, HotStuff), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
 - Operating Systems (Linux), Database Internals
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
   - [TLA+](https://github.com/kirillgrachoff/tlaplus-examples)
-  - Kotlin (+ Coroutines), Rust, Python 3 
+  - Kotlin (+ Coroutines), Python 3
   - Android (Jetpack Compose)
   - Hadoop (HDFS, Hive, Spark (Scala), Map Reduce)
   - [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech)
