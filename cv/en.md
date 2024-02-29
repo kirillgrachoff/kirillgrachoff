@@ -16,7 +16,7 @@ Intermediate English \
 
 ## Contacts
 tg: kirillgrachoff \
-kirill.grachoff[at]gmail[dot]com \
+email: (base64) a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo= \
 linkedin: kirillgrachoff
 
 ## Hard skills
