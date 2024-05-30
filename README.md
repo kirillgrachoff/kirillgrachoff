@@ -13,4 +13,4 @@
   - telegram: kirillgrachoff
   - linkedin: kirillgrachoff
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kirillgrachoff&count_private=true&show_icons=true&theme=highcontrast)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=kirillgrachoff&count_private=true&show_icons=true&theme=highcontrast) -->
