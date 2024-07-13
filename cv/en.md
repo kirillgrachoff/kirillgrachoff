@@ -9,6 +9,7 @@ Interested in:
 - Distributed systems
 - [Concurrency](https://github.com/scylladb/seastar/pull/1944)
 - Database internals
+- Advanced algorithms and data structures
 - Cloud services
 
 Examples: [YDB](https://ydb.tech), Kafka, CockroachDB, [YTsaurus](https://ytsaurus.tech), etcd, [ScyllaDB](https://scylladb.com)
@@ -17,9 +18,6 @@ Examples: [YDB](https://ydb.tech), Kafka, CockroachDB, [YTsaurus](https://ytsaur
 tg: kirillgrachoff \
 email: (base64) a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo= \
 linkedin: kirillgrachoff
-
-## Hard skills
-Concurrency, Distributed systems, Database Internals, C++, Go, Rust, Scala, Advanced Algorithms and Data Structures
 
 # Experience
 - [VKontakte](https://vk.com) | Engines \
