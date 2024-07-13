@@ -15,9 +15,9 @@ Interested in:
 Examples: [YDB](https://ydb.tech), Kafka, CockroachDB, [YTsaurus](https://ytsaurus.tech), etcd, [ScyllaDB](https://scylladb.com)
 
 ## Contacts
-tg: kirillgrachoff \
+tg: [kirillgrachoff](https://t.me/kirillgrachoff) \
 email: (base64) a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo= \
-linkedin: kirillgrachoff
+linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 
 # Experience
 - [VKontakte](https://vk.com) | Engines \
