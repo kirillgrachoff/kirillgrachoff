@@ -1,18 +1,17 @@
 # Grachev Kirill
-MIPT DIHT student \
+
+Infrastructure/Database Internals Engineer (C++, Go, Rust)
+
+Bachelor degree MIPT'24 (DIHT) \
 [YSDA](https://dataschool.yandex.com/) student \
-Software Engineer (C++, Go, Rust, Scala) \
+[ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
 Interested in:
 - Distributed systems
-- Data-intensive systems
+- [Concurrency](https://github.com/scylladb/seastar/pull/1944)
+- Database internals
 - Cloud services
-- Distributed algorithms and so on
 
 Examples: [YDB](https://ydb.tech), Kafka, CockroachDB, [YTsaurus](https://ytsaurus.tech), etcd, [ScyllaDB](https://scylladb.com)
-
-Moscow, Russia \
-Intermediate English \
-2002 birth year
 
 ## Contacts
 tg: kirillgrachoff \
@@ -20,21 +19,23 @@ email: (base64) a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo= \
 linkedin: kirillgrachoff
 
 ## Hard skills
-C++, Go, Rust, Scala, Concurrency, Distributed systems, Advanced Algorithms and Data Structures
+Concurrency, Distributed systems, Database Internals, C++, Go, Rust, Scala, Advanced Algorithms and Data Structures
 
 # Experience
 - [VKontakte](https://vk.com) | Engines \
   july 2023 - present time \
   **Database C++ developer** \
-  Messages Engine (Messenger Database)
-  - Maintained a cluster with >= 1000 instances
-  - Implemented new feature for messenger (based on distributed Timer)
+  Messages Engine (Messenger Database) - a home - grown distributed KV database for messages (15'000'000'000 messages/day)
+  - Accelerated snapshot creation from 70m to 20m (x3 speed up)
+  - Implemented new feature for distributed database (based on internal Timer)
+  - Maintained a cluster with 12000 shards
 
 - MIPT | Algorithms and Programming Technologies chair \
   Programming Technologies course \
   february - june 2023 (5 months) \
   **Teacher assistant**
   - Review homework tasks
+  - Work as a mentor
 
 - MIPT | [SNARK project](https://github.com/SciProgCentre/snark) \
   SNARK is an open-source platform for science articles: publishing/reviewing/discussion. \
@@ -51,8 +52,8 @@ C++, Go, Rust, Scala, Concurrency, Distributed systems, Advanced Algorithms and 
   **Golang/Python Intern SWE**
   - Add [`Ubuntu 22.04 LTS`](https://cloud.yandex.ru/marketplace/products/yc/ubuntu-22-04-lts) and [`openSUSE Leap 15.04`](https://cloud.yandex.ru/marketplace/products/yc/opensuse-15-4) to Cloud using HashiCorp Packer.
   - Improve autopublishing new OS versions. (scale using one builder instance instead of many)
-  - Add hcl language (terraform language) to autopublishing service.
   - Refactor Go service (repair Concurrency code).
+  - Add hcl language (terraform language) to autopublishing service.
   - Write a part of a new Go microservice (Concurrent part + monitoring).
 
   Technologies: [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech), S3, Yandex.Monitoring (~ Grafana + Prometheus), Go, Python.
@@ -68,7 +69,7 @@ C++, Go, Rust, Scala, Concurrency, Distributed systems, Advanced Algorithms and 
 
 # Education
 - [YSDA](https://dataschool.yandex.com/) (2023 - now) | Big Data Infrastructure
-- [MIPT](phystech.edu) DIHT (2020 - now) | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
+- [MIPT](phystech.edu) DIHT (2020 - 2024) | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
 - Moscow Worksops Juniors 2020
 
 # Open Source Contributions
@@ -78,11 +79,13 @@ C++, Go, Rust, Scala, Concurrency, Distributed systems, Advanced Algorithms and 
 - [snark](https://github.com/SciProgCentre/snark/commits?author=kirillgrachoff)
 
 # Hard Skills
-- C++ 11-20, Go 1.16+, Scala 2.13+, Rust
-- Docker, CMake, Bazel, Protobuf, gRPC
+- C++ 11-20, Go, Rust, Scala 2/3
+- Distributed systems theory and practice (AB, RSM, \[Multi\]Paxos/Raft (Chubby/ZK), DFS (FB Tectonic), 2PC, Calvin, Nakamoto Consensus, PBFT/HotStuff)
+- Database Internals
+- [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
+- Operating Systems (Linux)
 - Advanced Algorithms and Data Structures
-- Distributed systems (AB, RSM, [Multi]Paxos/Raft (Chubby/ZK), DFS (FB Tectonic), MR, 2PC (Spanner), Calvin (YDB), Bitcoin, HotStuff), [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
-- Operating Systems (Linux), Database Internals
+- Docker, CMake, Bazel, Protobuf, gRPC
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
   - [TLA+](https://github.com/kirillgrachoff/tlaplus-examples)
@@ -92,10 +95,8 @@ C++, Go, Rust, Scala, Concurrency, Distributed systems, Advanced Algorithms and 
   - [YDB](https://ydb.tech), [YTsaurus](https://ytsaurus.tech)
 
 # Competitions, self-education and achievements
-- ICPC Moscow 1/4 2021 - Second award
-- ICPC Moscow 1/4 2020 - Participant
+- [ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) - Second award (`Stone Ocean` team)
 - Codeforces Problemsetter ([Rounds](https://codeforces.com/contests/writer/kirill.grachoff))
-- Stepik Scala cource (Tinkoff Bank) [100% certificate](https://stepik.org/cert/295996)
 - Restored my Linux/Manjaro laptop after incorrect usage of Timeshift with btrfs (repaired something in /boot)
 
 # Projects
