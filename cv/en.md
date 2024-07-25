@@ -63,8 +63,6 @@ linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
   june - august 2022 (2 months) \
   **C/C++, Golang intern dev/researcher**
   - 5G networks [PDCCH](https://www.sharetechnote.com/html/5G/5G_PDCCH.html) protocol optimization.
-  - Implemented an algorithm which improved baseline.
-  - Made a research in 5G networks.
   - Ideas are implemented in Huawei 5G base stations.
 
 # Education
