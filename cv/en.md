@@ -85,6 +85,7 @@ linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 - [Concurrency](https://gitlab.com/Lipovsky/concurrency-course)
 - Operating Systems (Linux)
 - Advanced Algorithms and Data Structures
+- bpftrace
 - Docker, CMake, Bazel, Protobuf, gRPC
 - GRASP Patterns, SOLID, ACID, CI/CD, Testing, Git, Gitlab CI, GitHub Actions, Agile practices
 - Familiar with:
