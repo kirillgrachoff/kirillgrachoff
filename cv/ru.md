@@ -5,13 +5,13 @@ Infrastructure/Database Internals Engineer (C++, Go, Rust, Zig)
 Бакалавр МФТИ'24 (ФПМИ) \
 Студент ШАД (инфраструктура) \
 [ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
-Развиваюсь в направлении:
-- Распределённых систем,
-Concurrency ([PR](https://github.com/scylladb/seastar/pull/1944)),
-Database internals,
-Продвинутых алгоритмов и структур данных,
-Внутренности облачных сервисов
-- Публичных выступлений
+Интересно следующее:
+- Распределённые системы
+- Concurrency ([PR](https://github.com/scylladb/seastar/pull/1944))
+- Database internals
+- Продвинутые алгоритмы и структур данных
+- Внутренности облачных сервисов
+- Публичные выступления (на конференциях)
 
 PR в OpenSource: [scylladb/seastar](https://icpc.global/regionals/finder/MRC-2022/standings), [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff), [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff) 
 
