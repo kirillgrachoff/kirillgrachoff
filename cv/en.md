@@ -27,6 +27,7 @@ linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
   - Accelerated snapshot creation from 70m to 20m (x3 speed up)
   - Implemented new feature for distributed database (based on internal Timer)
   - Maintained a cluster with 12000 shards
+  - Meetup **speaker** "Co- \& Go- routines: internals and constraints"
 
 - MIPT | Algorithms and Programming Technologies chair \
   Programming Technologies course \
