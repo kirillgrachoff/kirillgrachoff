@@ -11,6 +11,7 @@ Interested in:
 - Database internals
 - Advanced algorithms and data structures
 - Cloud services
+- public speech
 
 Examples: [YDB](https://ydb.tech), Kafka, CockroachDB, [YTsaurus](https://ytsaurus.tech), etcd, [ScyllaDB](https://scylladb.com)
 
