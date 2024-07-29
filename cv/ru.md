@@ -34,7 +34,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), vk: [@k4](https://vk.com/k4),
 
 - Yandex.Cloud | Yandex Cloud Marketplace \
   июль - декабрь 2022 \
-  **Golang/Python Intern SWE** \
+  **Golang/Python Intern SWE**
   - Переписал многопоточную синхронизацию внутри сервиса сборки образов, что позволило сделать cancellation
   - Изменил код сервиса сборки образов для боллее бережливого масштабирования
   - Добавил возможность использовать hcl language (terraform language), а не только json для сервиса сборки образов
