@@ -1,5 +1,5 @@
 # Kirill Grachev (@kirillgrachoff)
-- Student at MIPT, DIHT (Applied Mathematics and Computer Science)
+- Bachelor degree at MIPT, DIHT (Applied Mathematics and Computer Science)
 - Student at [YSDA](https://dataschool.yandex.com/)
 - ex-SWE at Yandex.Cloud, Huawei
 - Who am I
