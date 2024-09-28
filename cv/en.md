@@ -10,7 +10,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 # Experience
 - [YTsaurus](https://ytsaurus.tech) \
-  september 2024 - present time
+  september 2024 - present time \
   **Database C++ developer** \
   YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform
 - [VKontakte](https://vk.com) | Engines \
