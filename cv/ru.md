@@ -9,8 +9,12 @@ Database Internals/Infrastructure Engineer (C++, Go, Rust, Zig)
 tg: [kirillgrachoff](https://t.me/kirillgrachoff), vk: [@k4](https://vk.com/k4), email: kirill.grachoff@gmail.com, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 
 # Опыт
+- Яндекс | YTsaurus \
+  сентябрь 2024 - сейчас \
+  **Разработчик C++** \
+  YTsaurus (YT) - Map-Reduce система, хранящая петабайты данных. Дин. таблицы - распределённая база данных поверх этой платформы
 - ВКонтакте | Движки \
-  июль 2023 - сейчас \
+  июль 2023 - август 2024 \
   **Разработчик C++** \
   Движок сообщений - самописное специализированное распределённое KV хранилище для личных сообщений ВКонтакте (15'000'000'000 сообщений в день) насчитывает 12000 шардов и ~900 TiB данных
   - Ускорил создание snapshot'а (в терминах Raft) с 70 до 20 минут

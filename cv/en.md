@@ -9,8 +9,12 @@ Interested in Distributed systems, Concurrency ([scylladb/seastar PR](https://gi
 tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo=`, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 
 # Experience
+- [YTsaurus](https://ytsaurus.tech) \
+  september 2024 - present time
+  **Database C++ developer** \
+  YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform
 - [VKontakte](https://vk.com) | Engines \
-  july 2023 - present time \
+  july 2023 - august 2024 \
   **Database C++ developer** \
   Messages Engine (Messenger Database) - a home - grown distributed KV database for messages (15'000'000'000 messages/day); 12000 shards, ~900 TiB of Data
   - Accelerated snapshot creation from 70m to 20m (x3 speed up)
