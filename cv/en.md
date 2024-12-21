@@ -12,7 +12,8 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 - [YTsaurus](https://ytsaurus.tech) \
   september 2024 - present time \
   **Database C++ developer** \
-  YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform
+  YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform \
+  [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR)
 - [VKontakte](https://vk.com) | Engines \
   july 2023 - august 2024 \
   **Database C++ developer** \
@@ -60,7 +61,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 - Moscow Worksops Juniors 2020
 
 # Open Source Contributions
-[scylladb/seastar](https://github.com/scylladb/seastar/pull/1944), [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff), [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff)
+[scylladb/seastar](https://github.com/scylladb/seastar/pull/1944), [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff), [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff), [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff)
 
 # Hard Skills
 - C++, Go, Rust
