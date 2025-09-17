@@ -9,8 +9,14 @@ Interested in Distributed systems, Concurrency ([scylladb/seastar PR](https://gi
 tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo=`, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 
 # Experience
+- YSDA Teacher \
+  september 2025 - present time
+  **"Distributed Systems" Lecturer**
+- Yandex Monitoring Logging \
+  june 2025 - present time
+  **Go developer** \
 - [YTsaurus](https://ytsaurus.tech) \
-  september 2024 - present time \
+  september 2024 - june 2025 \
   **Database C++ developer** \
   YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform \
   [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR)
