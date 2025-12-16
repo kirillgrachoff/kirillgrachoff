@@ -10,11 +10,11 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 # Experience
 - YSDA Teacher \
-  september 2025 - present time
+  september 2025 - present time \
   **"Distributed Systems" Lecturer**
 - Yandex Monitoring Logging \
-  june 2025 - present time
-  **Go developer** \
+  june 2025 - present time \
+  **Go developer**
 - [YTsaurus](https://ytsaurus.tech) \
   september 2024 - june 2025 \
   **Database C++ developer** \
