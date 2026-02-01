@@ -2,7 +2,9 @@
 
 Database Internals/Infrastructure Engineer (C++, Go, Rust, Zig)
 
-Bachelor degree MIPT'24 (DIHT), [YSDA](https://dataschool.yandex.com/) student (big data infrastructure) \
+Bachelor degree MIPT'24 (DIHT) \
+[YSDA](https://dataschool.yandex.com/)'25 (big data infrastructure)
+
 [ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
 Interested in Distributed systems, Concurrency ([scylladb/seastar PR](https://github.com/scylladb/seastar/pull/1944)) and public speech (conf speaker)
 
@@ -10,16 +12,30 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 # Experience
 - YSDA Teacher \
-  september 2025 - present time \
+  september - december 2025 (fall semester) \
   **"Distributed Systems" Lecturer**
+
 - Yandex Monitoring Logging \
   june 2025 - present time \
-  **Go developer**
+  **Go developer** \
+  - Created a new service
+  - Made some performance improvements
+  - Worked as an YT dyntables bundle responsible
+  - Implemented new internal log format to send between collector and processor
+  - Added an ability to ban "heavy" users/queries manually
+  - \[WIP\] Fixed 100% `query thread` usage at dyntables side
+
 - [YTsaurus](https://ytsaurus.tech) \
   september 2024 - june 2025 \
   **Database C++ developer** \
   YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform \
-  [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR)
+  [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR) \
+  I was working as a BundleContrller developer. Bundle controller is a component which is responsible for bundles maintenance and availability while running 3-dc mode. Bundle is an incapsulation abstraction which is used to prevent users from harming each other.
+  - Tuned "ground" clusters as a BundleController developer
+  - Fixed issues with race condition while maintenance operations
+  - Adapted BundleController to clusters without tablet node allocation mechanism
+  - Worked with YT capacity-planner to migrate from bit/s to Byte/s network limits
+
 - [VKontakte](https://vk.com) | Engines \
   july 2023 - august 2024 \
   **Database C++ developer** \
@@ -30,14 +46,14 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
   - Meetup **speaker** "Co- \& Go- routines: internals and constraints"
 
 - MIPT | Algorithms and Programming Technologies chair \
-  february - june 2023 (5 months) \
+  february - june 2023 (spring semester) \
   **Teacher assistant** \
   Programming Technologies course
   - Review homework tasks
   - Work as a mentor
 
 - MIPT | [SNARK project](https://github.com/SciProgCentre/snark) \
-  february - may 2023 (4 months) \
+  february - may 2023 (4 months project) \
   **Kotlin Lead SWE**
   SNARK is an open-source platform for science articles: publishing/reviewing/discussion, where I worked as a Team Lead / Senior Engineer
   - Write design docs
@@ -46,7 +62,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 - Yandex.Cloud | Yandex \
   Marketplace group \
-  july - december 2022 (6 months) \
+  july - december 2022 (6 months internship) \
   **Golang/Python Intern SWE**
   - Add [`Ubuntu 22.04 LTS`](https://cloud.yandex.ru/marketplace/products/yc/ubuntu-22-04-lts) and [`openSUSE Leap 15.04`](https://cloud.yandex.ru/marketplace/products/yc/opensuse-15-4) to Cloud using HashiCorp Packer.
   - Improve autopublishing new OS versions. (scale using one builder instance instead of many)
@@ -56,7 +72,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 - Huawei Russian Research Institute | Moscow R\&D \
   Math Modeling Lab | Algorithm challenges team \
-  june - august 2022 (2 months) \
+  june - august 2022 (2 months internship) \
   **C/C++, Golang intern dev/researcher**
   - 5G networks [PDCCH](https://www.sharetechnote.com/html/5G/5G_PDCCH.html) protocol optimization.
   - Ideas are implemented in Huawei 5G base stations.
