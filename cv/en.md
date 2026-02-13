@@ -12,23 +12,27 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 # Experience
 - YSDA Teacher \
-  september - december 2025 (fall semester) \
+  september 2025 - december 2025 (fall semester) \
   **"Distributed Systems" Lecturer**
+  - Lecture "ABD"
+  - Seminar "Chubby"
+  - Lecture "FLP"
+  - Lecture "Paxos & Multi-Paxos"
 
 - Yandex Monitoring Logging \
   june 2025 - present time \
-  **Go developer** \
+  **Go developer**
   - Created a new service
-  - Made some performance improvements
+  - Made some performance improvements: better ser/de protocol, faster log canonization algorithm
   - Worked as an YT dyntables bundle responsible
   - Implemented new internal log format to send between collector and processor
   - Added an ability to ban "heavy" users/queries manually
-  - \[WIP\] Fixed 100% `query thread` usage at dyntables side
+  - Fixed 100% `query thread` usage at dyntables side
 
-- [YTsaurus](https://ytsaurus.tech) \
+- Yandex YT/[YTsaurus](https://ytsaurus.tech) \
   september 2024 - june 2025 \
   **Database C++ developer** \
-  YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the platform \
+  YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the YTsaurus platform \
   [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR) \
   I was working as a BundleContrller developer. Bundle controller is a component which is responsible for bundles maintenance and availability while running 3-dc mode. Bundle is an incapsulation abstraction which is used to prevent users from harming each other.
   - Tuned "ground" clusters as a BundleController developer
@@ -54,7 +58,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
 
 - MIPT | [SNARK project](https://github.com/SciProgCentre/snark) \
   february - may 2023 (4 months project) \
-  **Kotlin Lead SWE**
+  **Kotlin Lead SWE** \
   SNARK is an open-source platform for science articles: publishing/reviewing/discussion, where I worked as a Team Lead / Senior Engineer
   - Write design docs
   - Split whole work into tickets and assign them to another 3 team members
@@ -78,9 +82,9 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
   - Ideas are implemented in Huawei 5G base stations.
 
 # Education
-- [YSDA](https://dataschool.yandex.com/) (2023 - now) | Big Data Infrastructure
-- [MIPT](phystech.edu) DIHT (2020 - 2024) | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
-- Moscow Worksops Juniors 2020
+- [MIPT](https://phystech.edu) DIHT (2024 - 2026) Master course | Data analysys chair (YSDA/Yandex)
+- [YSDA](https://dataschool.yandex.com/) (2023 - 2025) | Big Data Infrastructure
+- [MIPT](https://phystech.edu) DIHT (2020 - 2024) Bachelor course | Applied Mathematics and Computer Science | Financial Technologies chair (Tinkoff)
 
 # Open Source Contributions
 [scylladb/seastar](https://github.com/scylladb/seastar/pull/1944), [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff), [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff), [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff)
