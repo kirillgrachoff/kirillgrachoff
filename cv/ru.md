@@ -2,28 +2,46 @@
 
 Database Internals/Infrastructure Engineer (C++, Go, Rust, Zig)
 
-Бакалавр МФТИ'24 (ФПМИ), Студент ШАД (инфраструктура) \
-[ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
-Интересны Распределённые системы, Concurrency ([scylladb/seastar PR](https://icpc.global/regionals/finder/MRC-2022/standings)) и публичные выступления (на конференциях)
+Бакалавр МФТИ'24 (ФПМИ) \
+Выпускник ШАД'25 (инфраструктура)
 
-tg: [kirillgrachoff](https://t.me/kirillgrachoff), vk: [@k4](https://vk.com/k4), email: kirill.grachoff@gmail.com, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
+[ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
+Интересны Распределённые системы, Concurrency ([scylladb/seastar PR](https://icpc.global/regionals/finder/MRC-2022/standings)) и публичные выступления (на конференциях и митапах)
+
+tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo=`, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/), vk: [@k4](https://vk.com/k4)
 
 # Опыт
-- ШАД
+- &#9989; ШАД (Лектор)
   сентябрь 2025 - сейчас
   **Лектор курса "Разработка распределённых систем"**
-- Яндекс | Monitoring Logging \
+  - Лекция "ABD"
+  - Семинар "Chubby"
+  - Лекция "FLP"
+  - Лекция "Paxos & Multi-Paxos"
+
+- &#9989; Яндекс | Monitoring Logging \
   июнь 2025 - сейчас \
   **Разработчик Go**
-- Яндекс | YTsaurus \
+  - Создал новый сервис, настроил CI
+  - Улучшил некоторые алгоритмы: улучшил внутренний протокол передачи логов и написал более быстрый алгоритм канонизации логов
+  - Исправил баг, который не могли найти 2 месяца
+  - Был администратором YT dyntables bundle для логов
+  - Поддержал прямое и обратное кодирование логов Cloud
+  - Добавил механизм ручного бана пользователей/запросов
+  - Исправил проблему 100% использования `query thread` в бандле
+  - Рассказал команде про Log-Structured Merge-tree
+
+- Яндекс | YT/[YTsaurus](https://ytsaurus.tech) \
   сентябрь 2024 - июнь 2025 \
   **Разработчик C++** \
   YTsaurus (YT) - Map-Reduce система, хранящая петабайты данных. Дин. таблицы - распределённая база данных поверх этой платформы.
   - Адаптировал bundle controller для open source. Bundle Controller - это сервис, следящий за тем, чтобы у бандлов были ресурсы.
   - Провёл миграцию квот с битов в секунду на байты в секунду на всех кластерах.
   - Исправил ошибки, которые не позволяли уменьшить использование ресурсов бандлами.
-  - Ломал кластер, чтобы его восстановить
-  - 
+  - Ломал кластер, чтобы его восстановить.
+  - Исправил проблему race condtion во время maintenance.
+  - Поднимал bundle controller на кластерах без аллокаций (т.н. земельные/ground кластера).
+
 - ВКонтакте | Движки \
   июль 2023 - август 2024 \
   **Разработчик C++** \

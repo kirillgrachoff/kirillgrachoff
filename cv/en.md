@@ -11,7 +11,7 @@ Interested in Distributed systems, Concurrency ([scylladb/seastar PR](https://gi
 tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo=`, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 
 # Experience
-- YSDA Teacher \
+- &#9989; YSDA Teacher \
   september 2025 - december 2025 (fall semester) \
   **"Distributed Systems" Lecturer**
   - Lecture "ABD"
@@ -19,7 +19,7 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
   - Lecture "FLP"
   - Lecture "Paxos & Multi-Paxos"
 
-- Yandex Monitoring Logging \
+- &#9989; Yandex Monitoring Logging \
   june 2025 - present time \
   **Go developer**
   - Created a new service
