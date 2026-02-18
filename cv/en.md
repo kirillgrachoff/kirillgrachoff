@@ -3,15 +3,16 @@
 Database Internals/Infrastructure Engineer (C++, Go, Rust, Zig)
 
 Bachelor degree MIPT'24 (DIHT) \
-[YSDA](https://dataschool.yandex.com/)'25 (big data infrastructure)
+[YSDA](https://dataschool.yandex.com/)'25 (big data infrastructure) \
+Master course MIPT 2024 - now (DIHT)
 
-[ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
-Interested in Distributed systems, Concurrency ([scylladb/seastar PR](https://github.com/scylladb/seastar/pull/1944)) and public speech (conf speaker)
+Interested in Distributed systems, Concurrency ([scylladb/seastar PR](https://github.com/scylladb/seastar/pull/1944)) and public speech (conf speaker) \
+[ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean)
 
 tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo=`, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/)
 
-# Experience
-- &#9989; YSDA Teacher \
+# Experience (in starting order)
+- YSDA Teacher \
   september 2025 - december 2025 (fall semester) \
   **"Distributed Systems" Lecturer**
   - Lecture "ABD"

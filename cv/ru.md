@@ -3,16 +3,17 @@
 Database Internals/Infrastructure Engineer (C++, Go, Rust, Zig)
 
 Бакалавр МФТИ'24 (ФПМИ) \
-Выпускник ШАД'25 (инфраструктура)
+Выпускник ШАД'25 (инфраструктура) \
+Студент магистратуры МФТИ (ФПМИ, кафедра анализа данных)
 
-[ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean) \
-Интересны Распределённые системы, Concurrency ([scylladb/seastar PR](https://icpc.global/regionals/finder/MRC-2022/standings)) и публичные выступления (на конференциях и митапах)
+Интересны Распределённые системы, Concurrency ([scylladb/seastar PR](https://icpc.global/regionals/finder/MRC-2022/standings)) и публичные выступления (на конференциях и митапах) \
+Занимался олимпиадным программированием [ICPC MRC 2021](https://icpc.global/regionals/finder/MRC-2022/standings) Second award (Stone Ocean), [codeforces Div1](https://codeforces.com/profile/kirill.grachoff)
 
 tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdyYWNob2ZmQGdtYWlsLmNvbQo=`, linkedin: [kirillgrachoff](https://www.linkedin.com/in/kirillgrachoff/), vk: [@k4](https://vk.com/k4)
 
-# Опыт
-- &#9989; ШАД (Лектор)
-  сентябрь 2025 - сейчас
+# Опыт (в порядке начала)
+- ШАД (Лектор)
+  сентябрь 2025 - декабрь 2025 (осенний семестр)
   **Лектор курса "Разработка распределённых систем"**
   - Лекция "ABD"
   - Семинар "Chubby"
@@ -81,9 +82,9 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
   - Ideas are implemented in Huawei 5G base stations.
 
 # Образование
-- [ШАД](https://shad.yandex.ru/) (2023 - now) | Инфраструктура больших данных
+- [МФТИ](https://mipt.ru) ФПМИ (2024 - now), Магистр | Кафедра анализа данных (ШАД/Яндекс)
+- [ШАД](https://shad.yandex.ru/) (2023 - 2025) | Инфраструктура больших данных
 - [МФТИ](https://mipt.ru) ФПМИ (2020 - 2024), Бакалавр | Прикладная Математика и Информатика | Кафедра финансовых технологий (Tinkoff)
-- Moscow Worksops Juniors 2020
 
 # Open Source Contributions
 [scylladb/seastar](https://github.com/scylladb/seastar/pull/1944), [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java/commits?author=kirillgrachoff), [ydb-platform/ydb](https://github.com/ydb-platform/ydb/commits?author=kirillgrachoff)
