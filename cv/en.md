@@ -20,26 +20,26 @@ tg: [kirillgrachoff](https://t.me/kirillgrachoff), email: (base64) `a2lyaWxsLmdy
   - Lecture "FLP"
   - Lecture "Paxos & Multi-Paxos"
 
-- &#9989; Yandex Monitoring Logging \
-  june 2025 - present time \
-  **Go developer**
-  - Created a new service
-  - Made some performance improvements: better ser/de protocol, faster log canonization algorithm
-  - Worked as an YT dyntables bundle responsible
-  - Implemented new internal log format to send between collector and processor
-  - Added an ability to ban "heavy" users/queries manually
-  - Fixed 100% `query thread` usage at dyntables side
-
-- Yandex YT/[YTsaurus](https://ytsaurus.tech) \
-  september 2024 - june 2025 \
-  **Database C++ developer** \
-  YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the YTsaurus platform \
-  [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR) \
-  I was working as a BundleContrller developer. Bundle controller is a component which is responsible for bundles maintenance and availability while running 3-dc mode. Bundle is an incapsulation abstraction which is used to prevent users from harming each other.
-  - Tuned "ground" clusters as a BundleController developer
-  - Fixed issues with race condition while maintenance operations
-  - Adapted BundleController to clusters without tablet node allocation mechanism
-  - Worked with YT capacity-planner to migrate from bit/s to Byte/s network limits
+- &#9989; Yandex
+  september 2024 - now
+  - Monitoring Logging \
+    **Go developer**
+    - Created a new service
+    - Made some performance improvements: better ser/de protocol, faster log canonization algorithm
+    - Worked as an YT dyntables bundle responsible
+    - Implemented new internal log format to send between collector and processor
+    - Added an ability to ban "heavy" users/queries manually
+    - Fixed 100% `query thread` usage at dyntables side
+  - YT/[YTsaurus](https://ytsaurus.tech) \
+    **Database C++ developer** \
+    YTsaurus is a Map-Reduce platform which can serve petabytes of data. Dyn. tables is a distributed database build on the top of the YTsaurus platform \
+    [commits](https://github.com/ytsaurus/ytsaurus/commits?author=kirillgrachoff) (each commit is a PR) \
+    I was working as a BundleContrller developer. Bundle controller is a component which is responsible for bundles maintenance and availability while running 3-dc mode. Bundle is an incapsulation abstraction which is used to prevent users from harming each other.
+    - Tuned "ground" clusters as a BundleController developer
+    - Fixed issues with race condition while maintenance operations
+    - Adapted BundleController to clusters without tablet node allocation mechanism
+    - Worked with YT capacity-planner to migrate from bit/s to Byte/s network limits
+    - Worked on ytsaurus k8s operator
 
 - [VKontakte](https://vk.com) | Engines \
   july 2023 - august 2024 \
